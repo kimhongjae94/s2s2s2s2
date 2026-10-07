@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quiz.s2s2s2s2.com/sitemap.xml
